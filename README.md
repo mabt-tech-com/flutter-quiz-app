@@ -1,7 +1,7 @@
 
 # Quizz_app
 
-A simple quizz app built using Flutter. It allows the user to answer multiple-choice questions and see the result at the end. 
+This Flutter Quiz App has questions with each 4 options. Tap on an option and it will turn green or red depending on if the anwer is correct.
 
 ( this app is adaptive on : web, mobile )
 
